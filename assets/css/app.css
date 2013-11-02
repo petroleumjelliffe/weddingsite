@@ -448,19 +448,11 @@ body {
 
 /* line 300, ../../../../../../Users/petroleumjelliffe/.rvm/gems/ruby-1.9.3-p448/gems/zurb-foundation-4.3.2/scss/foundation/components/_global.scss */
 body {
-<<<<<<< HEAD
-  background: white;
-  color: #222222;
-  padding: 0;
-  margin: 0;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-=======
   background: url(../images/ricepaper_v3_@2X.png);
   color: #222222;
   padding: 0;
   margin: 0;
   font-family: "Goudy Bookletter 1911", "Helvetica", Helvetica, Arial, sans-serif;
->>>>>>> engagement
   font-weight: normal;
   font-style: normal;
   line-height: 1;
@@ -2064,11 +2056,7 @@ p aside {
 /* Default header styles */
 /* line 182, ../../../../../../Users/petroleumjelliffe/.rvm/gems/ruby-1.9.3-p448/gems/zurb-foundation-4.3.2/scss/foundation/components/_type.scss */
 h1, h2, h3, h4, h5, h6 {
-<<<<<<< HEAD
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-=======
   font-family: "Goudy Bookletter 1911", "Helvetica";
->>>>>>> engagement
   font-weight: bold;
   font-style: normal;
   color: #222222;
@@ -2660,13 +2648,8 @@ button.large, .button.large {
 @media only screen {
   /* line 206, ../../../../../../Users/petroleumjelliffe/.rvm/gems/ruby-1.9.3-p448/gems/zurb-foundation-4.3.2/scss/foundation/components/_buttons.scss */
   button, .button {
-<<<<<<< HEAD
-    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
-    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
-=======
     -webkit-box-shadow: 0 1px 0 white inset;
     box-shadow: 0 1px 0 white inset;
->>>>>>> engagement
     -webkit-transition: background-color 300ms ease-out;
     -moz-transition: background-color 300ms ease-out;
     transition: background-color 300ms ease-out;
@@ -6534,13 +6517,8 @@ ul.pagination li {
   margin-bottom: 1.25em;
   padding: 1.25em;
   background: #2ba6cb;
-<<<<<<< HEAD
-  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
-  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
-=======
   -webkit-box-shadow: 0 1px 0 white inset;
   box-shadow: 0 1px 0 white inset;
->>>>>>> engagement
 }
 /* line 44, ../../../../../../Users/petroleumjelliffe/.rvm/gems/ruby-1.9.3-p448/gems/zurb-foundation-4.3.2/scss/foundation/components/_panels.scss */
 .panel.callout > :first-child {
@@ -7318,7 +7296,6 @@ a.th {
 .f-dropdown.large {
   max-width: 800px;
 }
-=======
 
 /* line 1, ../../sass/_overrides.scss */
 h1, h2, p {
