@@ -50,7 +50,7 @@ $em-base: 16 !default;
 // Various global styles
 
 $default-float: left;
- $body-bg: url(http://subtlepatterns.com/patterns/ricepaper_v3.png);
+ $body-bg: url(../images/ricepaper_v3_@2X.png);
 // $body-font-color: #222;
 // $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 $body-font-family: "Goudy Bookletter 1911", "Helvetica", Helvetica, Arial, sans-serif;
@@ -81,9 +81,9 @@ $body-font-family: "Goudy Bookletter 1911", "Helvetica", Helvetica, Arial, sans-
 
 // Inset shadow shiny edges and depressions.
 
-// $shiny-edge-size: 0 1px 0;
-// $shiny-edge-color: rgba(#fff, .5);
-// $shiny-edge-active-color: rgba(#000, .2);
+$shiny-edge-size: 0 1px 0;
+$shiny-edge-color: rgba(#fff, 1.0);
+$shiny-edge-active-color: rgba(#000, .2);
 
 // Control whether or not CSS classes come through in the CSS files.
 
@@ -163,7 +163,7 @@ $body-font-family: "Goudy Bookletter 1911", "Helvetica", Helvetica, Arial, sans-
 // Control header font styles
 
 // $header-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-//$header-font-family: 'IM Fell DW Pica', serif;
+$header-font-family: "Goudy Bookletter 1911", "Helvetica";
 // $header-font-weight: bold;
 // $header-font-style: normal;
 // $header-font-color: #444;
