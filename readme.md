@@ -1,3 +1,5 @@
+[Preview &raquo;](http://petroleumjelliffe.github.io/weddingsite/)
+
 # Jekyll + Foundation SCSS #
 
 Foundation self declares to be the most advanced responsive front-end framework in the world.
