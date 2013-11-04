@@ -1,5 +1,20 @@
 [Preview &raquo;](http://petroleumjelliffe.github.io/weddingsite/)
 
+# Open Source Wedding Site Template 
+
+## What's Included
+* Our Story (the homepage)
+* RSVP
+* Registry
+* Guestbook
+
+## How's it work?
+* Runs on Github Pages usiung Jekyll, so it's hosted for free 
+* Uses Foundation 4 for a responsive, grid-based layout
+* Uses SASS and Compass to generate the CSS
+
+
+
 # Jekyll + Foundation SCSS #
 
 Foundation self declares to be the most advanced responsive front-end framework in the world.
